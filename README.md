@@ -18,10 +18,6 @@
 - Source Control Management : Git
 - IDE : VS-Code
 
-## EXPERIENCE
-InnoCraft Technologies, Vellore — Frontend Developer
-- OCT 2021 - PRESENT
-- Worked as a Individual Contributor on various front end projects from scratch
 
 ## EDUCATION
 Vellore Institute of Technology, Vellore — BCA
